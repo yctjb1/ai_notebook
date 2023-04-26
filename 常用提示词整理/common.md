@@ -54,7 +54,7 @@
 | 内容       | 画幅视角       | 距离       | close-up,<br />distant,<br />                                | 近景,<br />远景,<br />                                       |
 | 内容       | 画幅视角       | 人物比例   | full body,<br />upper body,<br />back,<br />bust,<br />profile,<br /> | 全身<br />上半身,<br />背景像,<br />半身像,<br />侧面绘,<br /> |
 | 内容       | 画幅视角       | 观察视角   | from above,<br />view of back,<br />                         | 俯视,<br />回眸,<br />                                       |
-| 内容       | 画幅视角       | 镜头类型   | wide angle,<br />Sony A7 Ⅲ ,<br />                           | 广角,<br />Sony A7 Ⅲ ,<br />                                 |
+| 内容       | 画幅视角       | 镜头类型   | wide angle,<br />Sony A7 Ⅲ ,<br />depth of field,<br />      | 广角,<br />Sony A7 Ⅲ ,<br />景深,<br />                      |
 |            |                |            |                                                              |                                                              |
 |            |                |            |                                                              |                                                              |
 |            |                |            |                                                              |                                                              |
