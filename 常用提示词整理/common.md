@@ -1,0 +1,13 @@
+| 作者 | 出处 | 类型   | 内容 | 翻译([DeepL](https://www.deepl.com/translator)) |
+| ---- | ---- | ------ | ---- | ----------------------------------------------- |
+|      |      | Prompt |      |                                                 |
+|      |      |        |      |                                                 |
+|      |      |        |      |                                                 |
+
+| 作者      | 出处                                | 类型            | 内容                                                         | 翻译([DeepL](https://www.deepl.com/translator))              |
+| --------- | ----------------------------------- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Nenly同学 | www.bilibili.com/video/BV1Lh411u7vs | Negative Prompt | NSFW, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, (ugly:1.331), (duplicate:1.331), (morbid:1.21), (mutilated:1.21), (tranny:1.331), mutated hands, (poorly drawn hands:1.5), blurry, (bad anatomy:1.21), (bad proportions:1.331), extra limbs, (disfigured:1.331), (missing arms:1.331), (extra legs:1.331), (fused fingers:1.61051), (too many fingers:1.61051), (unclear eyes:1.331), lowers, bad hands, missing fingers, extra digit, bad hands, missing fingers, (((extra arms and legs))), | NSFW, (最差质量:2), (低质量:2), (正常质量:2), lowres, 正常质量, ((单色)), ((灰度)), 皮肤斑点, 痤疮, 皮肤瑕疵, 年龄斑, (丑陋:1. 331), (重复:1.331), (病态:1.21), (残缺:1.21), (变性:1.331), 变异的手, (画得不好的手:1.5), 模糊, (不好的解剖:1. 21), (糟糕的比例:1.331), 额外的肢体, (毁容:1.331), (缺胳膊:1.331), (额外的腿:1.331), (融合的手指:1.61051), (太多的手指:1.61051), (不清楚的眼睛:1.331), 低头族, 坏手, 缺手指, 额外的数字, 坏手, 缺手指, （（（额外的胳膊和腿）））、 |
+|           |                                     |                 |                                                              |                                                              |
+|           |                                     |                 |                                                              |                                                              |
+|           |                                     |                 |                                                              |                                                              |
+
